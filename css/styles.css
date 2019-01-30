@@ -1,8 +1,23 @@
 #mint {
   background-color: #edf8ed;
   border:solid #ccfed3;
+  margin-right: 5px;
 }
 #blue {
-  background-color: #cedff1;
-  border:solid ##93DDE6;
+  background-color: #e5f4fc;
+  border:solid #93DDE6;
+  margin-left: 5px;
+}
+
+.jumbotron {
+  padding: 5px;
+}
+ img {
+   width: 35%;
+ }
+#mint .well {
+  background-color: #CDF2E0;
+}
+#blue .well {
+  background-color: #cedff0;
 }
